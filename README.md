@@ -25,16 +25,16 @@ Roadmaps for career growth
 Suggested projects & certifications
 
 
-🗣️ Read-Aloud Support – listen to recommendations in real-time
+🗣️ Read-Aloud Support - listen to recommendations in real-time
 
 
 
 🛠️ Tech Stack
 
-Ollama – lightweight model deployment
+Ollama - lightweight model deployment(tool)
 
-LLaMA2 – core LLM for generating personalized advice
+LLaMA2 - core LLM for generating personalized advice
 
-Python – backend logic
+Python - backend logic
 
-Text-to-Speech (TTS) – read-aloud functionality
+Text to Speech (TTS) - read aloud functionality
