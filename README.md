@@ -1,19 +1,19 @@
 🎓 AI Skill Mentor
 
-        An AI-powered skill mentor built with Ollama and LLaMA2 that helps students get personalized learning and career guidance.
+An AI-powered skill mentor built with Ollama and LLaMA2 that helps students get personalized learning and career guidance.
 
 
 🚀 Features
 
-       🔍 Takes inputs like:
+🔍 Takes inputs like:
 
-        Branch (e.g., CSE, ECE, AI & DS)
+Branch (e.g., CSE, ECE, AI & DS)
 
-        Current Semester
+Current Semester
 
-        Current Skills
+Current Skills
 
-        Areas of Interest
+Areas of Interest
 
 
 🎯 Provides personalized recommendations:
